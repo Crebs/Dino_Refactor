@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class Normalizer
   def initialize(strict: false, defaults: {})
     @strict   = strict

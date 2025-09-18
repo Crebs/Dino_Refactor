@@ -1,5 +1,3 @@
-# spec/normalizer_spec.rb
-# frozen_string_literal: true
 require_relative "../lib/normalizer"
 
 RSpec.describe Normalizer do
